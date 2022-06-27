@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello-World
 
-> Description the project.
+> This project is aimed at getting started with Git and linter files for the Microverse projects
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+
 
 ## Live Demo (if available)
 
@@ -18,39 +18,32 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Get started with the linter files and ensure they are present in your repository. 
+Ensure to use the Microverse README template given. 
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+Get the linter files for HTML and CSS ready in your repository
 
+### Setup
+Ensure you have a VSCode installed in your machine for ease of use
+Get the linter files set up for checking the errors in your code
+
+You can run git clone git clone https://github.com/Marlyn-Mayienga/Hello_World.git to access the repository
 ### Install
 
 ### Usage
 
 ### Run tests
 
-### Deployment
+👤 **Marlyn Mayienga**
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Marlyn_Mayienga](https://github.com/Marlyn_Mayienga)
+- Twitter: [@Merl_Mayienga](https://twitter.com/Merl_Mayienga)
+- LinkedIn: [Marlyn_Mayienga](https://linkedin.com/in/Marlyn_Mayienga)
 
 ## 🤝 Contributing
 
