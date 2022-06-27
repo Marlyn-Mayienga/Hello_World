@@ -10,6 +10,7 @@
 - HTML
 - CSS
 
+
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
@@ -30,6 +31,8 @@ Get the linter files for HTML and CSS ready in your repository
 ### Setup
 Ensure you have a VSCode installed in your machine for ease of use
 Get the linter files set up for checking the errors in your code
+
+You can run git clone git clone https://github.com/Marlyn-Mayienga/Hello_World.git to access the repository
 ### Install
 
 ### Usage
